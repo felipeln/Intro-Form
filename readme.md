@@ -4,4 +4,4 @@
 
 This project was made with the intention to practice my skills with HTML, CSS and Javascript.
 
-You can check the result here [link]((https://intro-form-seven.vercel.app/))
+You can check the result here [link](https://intro-form-seven.vercel.app/)
